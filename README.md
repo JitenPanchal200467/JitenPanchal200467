@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiten Panchal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenpanchal200467&label=Profile%20views&color=0e75b6&style=flat" alt="jitenpanchal200467" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitenpanchal200467" alt="jitenpanchal200467" /></a> </p>
-
-<p  align="left"> <a href ="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src ="https://github.com/ryo-ma/github-profile-trophy"/> </a></p>
 
 <p align="left"> <a href="https://twitter.com/@jitenpanch0706" target="blank"><img src="https://img.shields.io/twitter/follow/@jitenpanch0706?logo=twitter&style=for-the-badge" alt="jitenpanch0706" /></a> </p>
 
